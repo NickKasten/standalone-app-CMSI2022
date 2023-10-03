@@ -1,7 +1,7 @@
 # standalone-app-CMSI2022: Cool Destinations
 This project was the 1st of 4 completed for the LMU CMSI2022: Mobile App Development Class in conjunction with **Bryan Ardon**, user: **bryanardon**.
 
-Our group was known as ***A Tuple of Bools***
+Our group was affectionately known as ***A Tuple of Bools***.
 
 The following is from the original project description:
 ## Overlook
