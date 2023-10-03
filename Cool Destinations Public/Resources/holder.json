@@ -1,0 +1,968 @@
+[
+{
+    "Country": "Afghanistan",
+    "Region": "ASIA (EX. NEAR EAST)         ",
+    "Population": 31056997,
+    "Area (sq. mi.)": 647500,
+    "Pop. Density (per sq. mi.)": "48,0",
+    "Coastline": {
+        "(coast area ratio)": "0,00"
+    },
+    "coordinates" : {
+        "latitude": 33.9391,
+        "longitude": 67.7100
+    },
+    "deltas" : {
+        "latitudeDelta": 11,
+        "longitudeDelta": 11
+    },
+    "Net migration": "23,06",
+    "Infant mortality (per 1000 births)": "163,07",
+    "GDP ($ per capita)": 700,
+    "Literacy (%)": "36,0",
+    "Phones (per 1000)": "3,2",
+    "Arable (%)": "12,13",
+    "Crops (%)": "0,22",
+    "Other (%)": "87,65",
+    "Climate": "1",
+    "Birthrate": "46,6",
+    "Deathrate": "20,34",
+    "Agriculture": "0,38",
+    "Industry": "0,24",
+    "Service": "0,38",
+    "visited": true,
+    "id": 1001,
+    "imageName": "af",
+    "destinations": [
+        {"name": "Khwaja Abd Allah Ansari Shrine",
+            "coordinates" : {
+                "latitude": 34.3749,
+                "longitude": 62.2399
+            },
+            "id": 2001,
+            "descriptions": "The Shrine of Khwaja Abd Allah, commonly called the Shrine at Gazur Gah (or just Gazur Gah) and the Abdullah Ansari Shrine Complex, is the funerary compound of the Sufi saint Khwaja Abdullah Ansari"
+        },
+        {"name": "Band-e-Amir National Park",
+            "coordinates" : {
+                "latitude": 34.8457,
+                "longitude": 67.2250
+
+            },
+            "id": 2002,
+            "descriptions": "Band-e Amir National Park Afghanistan established its first national park on April 22, 2009, to promote and protect the natural beauty of a series of intensely blue lakes created by natural dams high in the Hindu Kush."
+        },
+        {"name": "Buddhas of Bamiyan Valley",
+            "coordinates" : {
+                "latitude": 34.8321,
+                "longitude": 67.8268
+            },
+            "id": 2003,
+            "descriptions": "The Buddhas of Bamiyan (or Bamyan) were two 6th-century monumental statues carved into the side of a cliff in the Bamyan valley of Hazarajat region in central Afghanistan, 130 kilometres (81 mi) northwest of Kabul at an elevation of 2,500 metres (8,200 ft)."
+        },
+        {"name": "Blue Mosque",
+            "coordinates" : {
+                "latitude": 41.0054,
+                "longitude": 28.9768
+            },
+            "id": 2004,
+            "descriptions": "The Masjid-e-Kabud or Rawze-e-Sharif located in Mazar-i-Sharif, Afghanistan, is a mosque which Sunni Muslims believe contains the tomb of Ali ibn Abi Talib."
+        }
+    ]
+},
+{
+    "Country": "Albania",
+    "Region": "EASTERN EUROPE                     ",
+    "Population": 3581655,
+    "Area (sq. mi.)": 28748,
+    "Pop. Density (per sq. mi.)": "124,6",
+    "Coastline": {
+        "(coast area ratio)": "1,26"
+    },
+    "coordinates" : {
+        "latitude": 41.1533,
+        "longitude": 20.1683
+    },
+    "deltas" : {
+        "latitudeDelta": 4,
+        "longitudeDelta": 4
+    },
+    "Net migration": "-4,93",
+    "Infant mortality (per 1000 births)": "21,52",
+    "GDP ($ per capita)": 4500,
+    "Literacy (%)": "86,5",
+    "Phones (per 1000)": "71,2",
+    "Arable (%)": "21,09",
+    "Crops (%)": "4,42",
+    "Other (%)": "74,49",
+    "Climate": "3",
+    "Birthrate": "15,11",
+    "Deathrate": "5,22",
+    "Agriculture": "0,232",
+    "Industry": "0,188",
+    "Service": "0,579",
+    "visited": false,
+    "id": 1002,
+    "imageName": "al",
+    "destinations": [
+        {"name": "Butrint National Park",
+            "coordinates" : {
+                "latitude": 39.7462,
+                "longitude": 20.0199
+            },
+            "id": 2005,
+            "descriptions": "The Butrint National Park (Albanian: Parku Kombëtar i Butrintit) is a national park in Vlorë County, southern Albania."
+        },
+        {"name": "The Blue Eye",
+            "coordinates" : {
+                "latitude": 39.9236,
+                "longitude": 20.1925
+            },
+            "id": 2006,
+            "descriptions": "The Blue Eye (Albanian: Syri i Kaltër) is a water spring and natural phenomenon occurring near the village of Muzinë in Finiq municipality, southern Albania."
+        },
+        {"name": "Berat Castle",
+            "coordinates" : {
+                "latitude": 40.7103,
+                "longitude": 19.9457
+            },
+            "id": 2007,
+            "descriptions": "Berat Castle (Albanian: Kalaja e Beratit), also referred to as the Citadel of Berat and castle quarter, is a fortress overlooking the town of Berat, Albania."
+        },
+        {"name": "Tirana",
+            "coordinates" : {
+                "latitude": 41.3275,
+                "longitude": 19.8187
+            },
+            "id": 2008,
+            "descriptions": "Tirana is the capital and largest city of Albania"
+        }
+    ]
+},
+{
+    "Country": "Algeria",
+    "Region": "NORTHERN AFRICA                    ",
+    "Population": 32930091,
+    "Area (sq. mi.)": 2381740,
+    "Pop. Density (per sq. mi.)": "13,8",
+    "Coastline": {
+        "(coast area ratio)": "0,04"
+    },
+    "coordinates" : {
+        "latitude": 28.0339,
+        "longitude": 1.6596
+    },
+    "deltas" : {
+        "latitudeDelta": 23,
+        "longitudeDelta": 23
+    },
+    "Net migration": "-0,39",
+    "Infant mortality (per 1000 births)": "31",
+    "GDP ($ per capita)": 6000,
+    "Literacy (%)": "70,0",
+    "Phones (per 1000)": "78,1",
+    "Arable (%)": "3,22",
+    "Crops (%)": "0,25",
+    "Other (%)": "96,53",
+    "Climate": "1",
+    "Birthrate": "17,14",
+    "Deathrate": "4,61",
+    "Agriculture": "0,101",
+    "Industry": "0,6",
+    "Service": "0,298",
+    "visited": false,
+    "id": 1003,
+    "imageName": "dz",
+    "destinations": [
+        {"name": "Algiers",
+            "coordinates" : {
+                "latitude": 36.7538,
+                "longitude": 3.0588
+            },
+            "id": 2009,
+            "descriptions": "Algiers is the capital and largest city of Algeria"
+        },
+        {"name": "Atakor",
+            "coordinates" : {
+                "latitude": 23.3025,
+                "longitude": 5.7272
+            },
+            "id": 2010,
+            "descriptions": "Atakor volcanic field is a volcanic field in Algeria"
+        },
+        {"name": "Tamanrasset",
+            "coordinates" : {
+                "latitude": 22.7903,
+                "longitude": 5.5193
+            },
+            "id": 2011,
+            "descriptions": "Tamanrasset is an oasis city and capital of Tamanrasset Province in southern Algeria, in the Ahaggar Mountains"
+        },
+        {"name": "Basilique Notre Dame d'Afrique",
+            "coordinates" : {
+                "latitude": 36.8009,
+                "longitude": 3.0426
+            },
+            "id": 2012,
+            "descriptions": "Basilique Notre Dame d'Afrique is a Catholic basilica in Algiers, Algeria"
+        }
+    ]
+},
+{
+    "Country": "American Samoa",
+    "Region": "OCEANIA                            ",
+    "Population": 57794,
+    "Area (sq. mi.)": 199,
+    "Pop. Density (per sq. mi.)": "290,4",
+    "Coastline": {
+        "(coast area ratio)": "58,29"
+    },
+    "coordinates" : {
+        "latitude": -14.3064,
+        "longitude": -170.6950
+    },
+    "deltas" : {
+        "latitudeDelta": 0.5,
+        "longitudeDelta": 0.5
+    },
+    "Net migration": "-20,71",
+    "Infant mortality (per 1000 births)": "9,27",
+    "GDP ($ per capita)": 8000,
+    "Literacy (%)": "97,0",
+    "Phones (per 1000)": "259,5",
+    "Arable (%)": "10",
+    "Crops (%)": "15",
+    "Other (%)": "75",
+    "Climate": "2",
+    "Birthrate": "22,46",
+    "Deathrate": "3,27",
+    "Agriculture": "",
+    "Industry": "",
+    "Service": "",
+    "visited": false,
+    "id": 1004,
+    "imageName": "as",
+    "destinations": [
+        {"name": "Two Dollar Beach",
+            "coordinates" : {
+                "latitude": -14.2809,
+                "longitude": -170.6316
+            },
+            "id": 2013,
+            "descriptions": "Wikipedia does not have an article on this location!!"
+        },
+        {"name": "Mount Alava",
+            "coordinates" : {
+                "latitude": -14.2645,
+                "longitude": -170.6881
+            },
+            "id": 2014,
+            "descriptions": "Mount ʻAlava is a mountain in the National Park of American Samoa, on the volcanic island of Tutuila"
+        },
+        {"name": "Ofu Beach",
+            "coordinates" : {
+                "latitude": -14.1729,
+                "longitude": -169.6483
+            },
+            "id": 2015,
+            "descriptions": "Ofu Beach is separated only by the shallow, 137-meter-wide Āsaga Strait,"
+        },
+        {"name": "National Park of American Samoa",
+            "coordinates" : {
+                "latitude": -14.2579,
+                "longitude": -170.6860
+            },
+            "id": 2016,
+            "descriptions": "The park preserves and protects coral reefs, tropical rainforests, fruit bats, and the Samoan culture."
+        }
+    ]
+},
+{
+    "Country": "Andorra",
+    "Region": "WESTERN EUROPE                     ",
+    "Population": 71201,
+    "Area (sq. mi.)": 468,
+    "Pop. Density (per sq. mi.)": "152,1",
+    "Coastline": {
+        "(coast area ratio)": "0,00"
+    },
+    "coordinates" : {
+        "latitude": 42.5422,
+        "longitude": 1.5976
+    },
+    "deltas" : {
+        "latitudeDelta": 0.55,
+        "longitudeDelta": 0.55
+    },
+    "Net migration": "6,6",
+    "Infant mortality (per 1000 births)": "4,05",
+    "GDP ($ per capita)": 19000,
+    "Literacy (%)": "100,0",
+    "Phones (per 1000)": "497,2",
+    "Arable (%)": "2,22",
+    "Crops (%)": "0",
+    "Other (%)": "97,78",
+    "Climate": "3",
+    "Birthrate": "8,71",
+    "Deathrate": "6,25",
+    "Agriculture": "",
+    "Industry": "",
+    "Service": "",
+    "visited": false,
+    "id": 1005,
+    "imageName": "ad",
+    "destinations": [
+        {"name": "Grandvalira",
+            "coordinates" : {
+                "latitude": 42.5784,
+                "longitude": 1.6462
+            },
+            "id": 2017,
+            "descriptions": "Grandvalira is one of the three best budget skiing resorts in Europe"
+        },
+        {"name": "Lagos de Tristaina",
+            "coordinates" : {
+                "latitude": 42.6419,
+                "longitude": 1.4861
+            },
+            "id": 2018,
+            "descriptions": "Wikipedia does not have an article on this location!!"
+        },
+        {"name": "Mirador del Roc del Quer",
+            "coordinates" : {
+                "latitude": 42.5673,
+                "longitude": 1.5910
+            },
+            "id": 2019,
+            "descriptions": "Known for its ski resort"
+        },
+        {"name": "Valle de Incles",
+            "coordinates" : {
+                "latitude": 42.586005,
+                "longitude": 1.665013
+            },
+            "id": 2020,
+            "descriptions": "Wikipedia does not have an article on this location!!"
+        }
+    ]
+},
+{
+    "Country": "Angola",
+    "Region": "SUB-SAHARAN AFRICA                 ",
+    "Population": 12127071,
+    "Area (sq. mi.)": 1246700,
+    "Pop. Density (per sq. mi.)": "9,7",
+    "Coastline": {
+        "(coast area ratio)": "0,13"
+    },
+    "coordinates" : {
+        "latitude": -11.2027,
+        "longitude": 17.8739
+    },
+    "deltas" : {
+        "latitudeDelta": 15,
+        "longitudeDelta": 15
+    },
+    "Net migration": "0",
+    "Infant mortality (per 1000 births)": "191,19",
+    "GDP ($ per capita)": 1900,
+    "Literacy (%)": "42,0",
+    "Phones (per 1000)": "7,8",
+    "Arable (%)": "2,41",
+    "Crops (%)": "0,24",
+    "Other (%)": "97,35",
+    "Climate": "",
+    "Birthrate": "45,11",
+    "Deathrate": "24,2",
+    "Agriculture": "0,096",
+    "Industry": "0,658",
+    "Service": "0,246",
+    "visited": false,
+    "id": 1006,
+    "imageName": "ao",
+    "destinations": [
+        {"name": "Kissama National Park",
+            "coordinates" : {
+                "latitude": -9.7500,
+                "longitude": 13.5833
+            },
+            "id": 2021,
+            "descriptions": "Kissama National Park is a national park in northwestern Angola."
+        },
+        {"name": "Luanda",
+            "coordinates" : {
+                "latitude": -8.8147,
+                "longitude": 13.2302
+            },
+            "id": 2022,
+            "descriptions": "Luanda is the capital and largest city in Angola"
+        },
+        {"name": "Benguela",
+            "coordinates" : {
+                "latitude": -12.5905,
+                "longitude": 13.4165
+            },
+            "id": 2023,
+            "descriptions": "Benguela is a city in western Angola, capital of Benguela Province"
+        },
+        {"name": "Dilolo Lake",
+            "coordinates" : {
+                "latitude": -11.5167,
+                "longitude": 22.0500
+            },
+            "id": 2024,
+            "descriptions": "Dilolo Lake is the largest lake in Angola. It is located in Moxico Province."
+        }
+    ]
+},
+{
+    "Country": "Anguilla",
+    "Region": "LATIN AMER. & CARIB    ",
+    "Population": 13477,
+    "Area (sq. mi.)": 102,
+    "Pop. Density (per sq. mi.)": "132,1",
+    "Coastline": {
+        "(coast area ratio)": "59,80"
+    },
+    "coordinates" : {
+        "latitude": 18.227230,
+        "longitude": -63.048988
+    },
+    "deltas" : {
+        "latitudeDelta": 0.3,
+        "longitudeDelta": 0.3
+    },
+    "Net migration": "10,76",
+    "Infant mortality (per 1000 births)": "21,03",
+    "GDP ($ per capita)": 8600,
+    "Literacy (%)": "95,0",
+    "Phones (per 1000)": "460,0",
+    "Arable (%)": "0",
+    "Crops (%)": "0",
+    "Other (%)": "100",
+    "Climate": "2",
+    "Birthrate": "14,17",
+    "Deathrate": "5,34",
+    "Agriculture": "0,04",
+    "Industry": "0,18",
+    "Service": "0,78",
+    "visited": false,
+    "id": 1007,
+    "imageName": "ai",
+    "destinations": [
+        {"name": "Shoal Bay",
+            "coordinates" : {
+                "latitude": 18.2590,
+                "longitude": -63.0294
+            },
+            "id": 2025,
+            "descriptions": "Shoal Bay is a shallow bay"
+        },
+        {"name": "Sandy Ground Village",
+            "coordinates" : {
+                "latitude": 18.2029,
+                "longitude": -63.0869
+            },
+            "id": 2026,
+            "descriptions": "Sandy Ground is a village and one of the fourteen Districts of Anguilla, and its main port. The long curved beach is backed by high cliffs and a disused salt pond."
+        },
+        {"name": "Meads Bay",
+            "coordinates" : {
+                "latitude": 18.1819,
+                "longitude": -63.1351
+            },
+            "id": 2027,
+            "descriptions": "Meads Bay Pond is a wetland in Anguilla, a British Overseas Territory in the Caribbean Sea."
+        },
+        {"name": "Little Bay",
+            "coordinates" : {
+                "latitude": 18.2279,
+                "longitude": -63.0722
+            },
+            "id": 2028,
+            "descriptions": "Little bay is an island in the Leeward Islands"
+        }
+    ]
+},
+{
+    "Country": "Antigua & Barbuda",
+    "Region": "LATIN AMER. & CARIB    ",
+    "Population": 69108,
+    "Area (sq. mi.)": 443,
+    "Pop. Density (per sq. mi.)": "156,0",
+    "Coastline": {
+        "(coast area ratio)": "34,54"
+    },
+    "coordinates" : {
+        "latitude": 17.35,
+        "longitude": -61.783491
+    },
+    "deltas" : {
+        "latitudeDelta": 0.8,
+        "longitudeDelta": 0.8
+    },
+    "Net migration": "-6,15",
+    "Infant mortality (per 1000 births)": "19,46",
+    "GDP ($ per capita)": 11000,
+    "Literacy (%)": "89,0",
+    "Phones (per 1000)": "549,9",
+    "Arable (%)": "18,18",
+    "Crops (%)": "4,55",
+    "Other (%)": "77,27",
+    "Climate": "2",
+    "Birthrate": "16,93",
+    "Deathrate": "5,37",
+    "Agriculture": "0,038",
+    "Industry": "0,22",
+    "Service": "0,743",
+    "visited": false,
+    "id": 1008,
+    "imageName": "ag",
+    "destinations": [
+        {"name": "Shirley Heights Lookout",
+            "coordinates" : {
+                "latitude": 17.0024,
+                "longitude": -61.7550
+            },
+            "id": 2029,
+            "descriptions": "Wikipedia does not have an article on this location!!"
+        },
+        {"name": "Betty's Hope",
+            "coordinates" : {
+                "latitude": 17.0833,
+                "longitude": -61.7387
+            },
+            "id": 2030,
+            "descriptions": "Betty's Hope was a sugarcane plantation in Antigua"
+        },
+        {"name": "Devil's Bridge",
+            "coordinates" : {
+                "latitude": 17.1005,
+                "longitude": -61.6784
+            },
+            "id": 2031,
+            "descriptions": "Devil's Bridge is a term applied to dozens of ancient bridges, found primarily in Europe"
+        },
+        {"name": "Half Moon Bay",
+            "coordinates" : {
+                "latitude": 17.0461,
+                "longitude": -61.6814
+            },
+            "id": 2032,
+            "descriptions": "Wikipedia does not have an article on this location!!"
+        }
+    ]
+},
+{
+    "Country": "Argentina",
+    "Region": "LATIN AMER. & CARIB    ",
+    "Population": 39921833,
+    "Area (sq. mi.)": 2766890,
+    "Pop. Density (per sq. mi.)": "14,4",
+    "Coastline": {
+        "(coast area ratio)": "0,18"
+    },
+    "coordinates" : {
+        "latitude": -38.4161,
+        "longitude": -63.6167
+    },
+    "deltas" : {
+        "latitudeDelta": 30,
+        "longitudeDelta": 30
+    },
+    "Net migration": "0,61",
+    "Infant mortality (per 1000 births)": "15,18",
+    "GDP ($ per capita)": 11200,
+    "Literacy (%)": "97,1",
+    "Phones (per 1000)": "220,4",
+    "Arable (%)": "12,31",
+    "Crops (%)": "0,48",
+    "Other (%)": "87,21",
+    "Climate": "3",
+    "Birthrate": "16,73",
+    "Deathrate": "7,55",
+    "Agriculture": "0,095",
+    "Industry": "0,358",
+    "Service": "0,547",
+    "visited": false,
+    "id": 1009,
+    "imageName": "ar",
+    "destinations": [
+        {"name": "Iguazu Falls",
+            "coordinates" : {
+                "latitude": -25.6953,
+                "longitude": -54.4367
+            },
+            "id": 2033,
+            "descriptions": "Iguazu Falls are waterfalls of the Iguazu River on the border of the Argentine province of Misiones and the Brazilian state of Paraná"
+        },
+        {"name": "Puerto Madero",
+            "coordinates" : {
+                "latitude": -34.6177,
+                "longitude": -58.3621
+            },
+            "id": 2034,
+            "descriptions": "Puerto Madero is the site for several high-rise buildings and luxurious hotels, featuring the latest architectural trends"
+        },
+        {"name": "Recoleta",
+            "coordinates" : {
+                "latitude": -34.5874,
+                "longitude": -58.3973
+            },
+            "id": 2035,
+            "descriptions": "Recoleta is a barrio or neighborhood of Buenos Aires, Argentina, located in the northern part of the city, by the Río de la Plata."
+        },
+        {"name": "Perito Moreno Glacier",
+            "coordinates" : {
+                "latitude": -50.4967,
+                "longitude": -73.1377
+            },
+            "id": 2036,
+            "descriptions": "The Perito Moreno Glacier is a glacier located in Los Glaciares National Park in southwest Santa Cruz Province, Argentina"
+        }
+    ]
+},
+{
+    "Country": "Armenia",
+    "Region": "C.W. OF IND. STATES ",
+    "Population": 2976372,
+    "Area (sq. mi.)": 29800,
+    "Pop. Density (per sq. mi.)": "99,9",
+    "Coastline": {
+        "(coast area ratio)": "0,00"
+    },
+    "coordinates" : {
+        "latitude": 40.0691,
+        "longitude": 45.0382
+    },
+    "deltas" : {
+        "latitudeDelta": 3.25,
+        "longitudeDelta": 3.25
+    },
+    "Net migration": "-6,47",
+    "Infant mortality (per 1000 births)": "23,28",
+    "GDP ($ per capita)": 3500,
+    "Literacy (%)": "98,6",
+    "Phones (per 1000)": "195,7",
+    "Arable (%)": "17,55",
+    "Crops (%)": "2,3",
+    "Other (%)": "80,15",
+    "Climate": "4",
+    "Birthrate": "12,07",
+    "Deathrate": "8,23",
+    "Agriculture": "0,239",
+    "Industry": "0,343",
+    "Service": "0,418",
+    "visited": false,
+    "id": 1010,
+    "imageName": "am",
+    "destinations": [
+        {"name": "Yerevan",
+            "coordinates" : {
+                "latitude": 40.1872,
+                "longitude": 44.5152
+            },
+            "id": 2037,
+            "descriptions": "Yerevan is the capital and largest city of Armenia and one of the world's oldest continuously inhabited cities."
+        },
+        {"name": "Lake Sevan",
+            "coordinates" : {
+                "latitude": 40.3450,
+                "longitude": 45.3352
+            },
+            "id": 2038,
+            "descriptions": "Lake Sevan is the largest body of water in both Armenia and the Caucasus region."
+        },
+        {"name": "Dilijan National Park",
+            "coordinates" : {
+                "latitude": 40.7876,
+                "longitude": 44.8651
+            },
+            "id": 2039,
+            "descriptions": "Dilijan National Park is one of the four national parks of Armenia"
+        },
+        {"name": "Noravank",
+            "coordinates" : {
+                "latitude": 39.6848,
+                "longitude": 45.2327
+            },
+            "id": 2040,
+            "descriptions": "Noravank is a 13th-century Armenian monastery, located 122 km from Yerevan in a narrow gorge made by the Amaghu River, near the town of Yeghegnadzor in Armenia"
+        }
+    ]
+},
+{
+    "Country": "Aruba",
+    "Region": "LATIN AMER. & CARIB    ",
+    "Population": 71891,
+    "Area (sq. mi.)": 193,
+    "Pop. Density (per sq. mi.)": "372,5",
+    "Coastline": {
+        "(coast area ratio)": "35,49"
+    },
+    "coordinates" : {
+        "latitude": 12.5211,
+        "longitude": -69.9683
+    },
+    "deltas" : {
+        "latitudeDelta": 0.3,
+        "longitudeDelta": 0.3
+    },
+    "Net migration": "0",
+    "Infant mortality (per 1000 births)": "5,89",
+    "GDP ($ per capita)": 28000,
+    "Literacy (%)": "97,0",
+    "Phones (per 1000)": "516,1",
+    "Arable (%)": "10,53",
+    "Crops (%)": "0",
+    "Other (%)": "89,47",
+    "Climate": "2",
+    "Birthrate": "11,03",
+    "Deathrate": "6,68",
+    "Agriculture": "0,004",
+    "Industry": "0,333",
+    "Service": "0,663",
+    "visited": false,
+    "id": 1011,
+    "imageName": "aw",
+    "destinations": [
+        {"name": "Eagle Beach",
+            "coordinates" : {
+                "latitude": 12.5513,
+                "longitude": -70.0565
+            },
+            "id": 2041,
+            "descriptions": "Eagle Beach is a beach and neighborhood of Oranjestad, Aruba"
+        },
+        {"name": "Oranjestad",
+            "coordinates" : {
+                "latitude": 12.5092,
+                "longitude": -70.0086
+            },
+            "id": 2042,
+            "descriptions": "Oranjestad is the capital and largest city of Aruba, a constituent country of the Kingdom of the Netherlands."
+        },
+        {"name": "Boca Prins",
+            "coordinates" : {
+                "latitude": 12.4988,
+                "longitude": -69.9068
+            },
+            "id": 2043,
+            "descriptions": "Wikipedia does not have an article on this location!!"
+        },
+        {"name": "The Butterfly Farm",
+            "coordinates" : {
+                "latitude": 12.5636,
+                "longitude": -70.0502
+            },
+            "id": 2044,
+            "descriptions": "Wikipedia does not have an article on this location!!"
+        }
+    ]
+},
+{
+    "Country": "Australia",
+    "Region": "OCEANIA                            ",
+    "Population": 20264082,
+    "Area (sq. mi.)": 7686850,
+    "Pop. Density (per sq. mi.)": "2,6",
+    "Coastline": {
+        "(coast area ratio)": "0,34"
+    },
+    "coordinates" : {
+        "latitude": -25.2744,
+        "longitude": 133.7751
+    },
+    "deltas" : {
+        "latitudeDelta": 45,
+        "longitudeDelta": 45
+    },
+    "Net migration": "3,98",
+    "Infant mortality (per 1000 births)": "4,69",
+    "GDP ($ per capita)": 29000,
+    "Literacy (%)": "100,0",
+    "Phones (per 1000)": "565,5",
+    "Arable (%)": "6,55",
+    "Crops (%)": "0,04",
+    "Other (%)": "93,41",
+    "Climate": "1",
+    "Birthrate": "12,14",
+    "Deathrate": "7,51",
+    "Agriculture": "0,038",
+    "Industry": "0,262",
+    "Service": "0,7",
+    "visited": false,
+    "id": 1012,
+    "imageName": "au",
+    "destinations": [
+        {"name": "Uluru",
+            "coordinates" : {
+                "latitude": -25.3444,
+                "longitude": 131.0369
+            },
+            "id": 2045,
+            "descriptions": "Uluru is a large sandstone formation in the center of Australia"
+        },
+        {"name": "The Whitsundays",
+            "coordinates" : {
+                "latitude": -20.3519,
+                "longitude": 148.9573
+            },
+            "id": 2046,
+            "descriptions": "The Whitsunday Islands are 74 continental islands of various sizes off the central coast of Queensland, Australia, 900 kilometres (560 miles) north of Brisbane"
+        },
+        {"name": "Sydney",
+            "coordinates" : {
+                "latitude": -33.8688,
+                "longitude": 151.2093
+            },
+            "id": 2047,
+            "descriptions": "Sydney is the capital city of the state of New South Wales, and the most populous city in both Australia and Oceania"
+        },
+        {"name": "Tasmania",
+            "coordinates" : {
+                "latitude": -42.0409,
+                "longitude": 146.8087
+            },
+            "id": 2048,
+            "descriptions": "Tasmania is an island state of Australia"
+        },
+    ]
+},
+{
+    "Country": "Austria",
+    "Region": "WESTERN EUROPE                     ",
+    "Population": 8192880,
+    "Area (sq. mi.)": 83870,
+    "Pop. Density (per sq. mi.)": "97,7",
+    "Coastline": {
+        "(coast area ratio)": "0,00"
+    },
+    "coordinates" : {
+        "latitude": 47.6964,
+        "longitude": 13.3457
+    },
+    "deltas" : {
+        "latitudeDelta": 5,
+        "longitudeDelta": 5
+    },
+    "Net migration": "2",
+    "Infant mortality (per 1000 births)": "4,66",
+    "GDP ($ per capita)": 30000,
+    "Literacy (%)": "98,0",
+    "Phones (per 1000)": "452,2",
+    "Arable (%)": "16,91",
+    "Crops (%)": "0,86",
+    "Other (%)": "82,23",
+    "Climate": "3",
+    "Birthrate": "8,74",
+    "Deathrate": "9,76",
+    "Agriculture": "0,018",
+    "Industry": "0,304",
+    "Service": "0,678",
+    "visited": false,
+    "id": 1013,
+    "imageName": "at",
+    "destinations": [
+        {"name": "Vienna",
+            "coordinates" : {
+                "latitude": 48.2082,
+                "longitude": 16.3738
+            },
+            "id": 2049,
+            "descriptions": "Vienna is the capital, largest city, and one of nine states of Austria."
+        },
+        {"name": "Hallstat",
+            "coordinates" : {
+                "latitude": 47.5622,
+                "longitude": 13.6493
+            },
+            "id": 2050,
+            "descriptions": "Hallstat is a small town in the district of Gmunden, in the Austrian state of Upper Austria"
+        },
+        {"name": "Innsbruck",
+            "coordinates" : {
+                "latitude": 47.2692,
+                "longitude": 11.4041
+            },
+            "id": 2051,
+            "descriptions": "Innsbruck is the capital of Tyrol and the fifth-largest city in Austria"
+        },
+        {"name": "Wothersee",
+            "coordinates" : {
+                "latitude": 46.6246,
+                "longitude": 14.1544
+            },
+            "id": 2052,
+            "descriptions": "Wörthersee is Carinthia's largest lake."
+        }
+    ]
+},
+{
+    "Country": "Azerbaijan",
+    "Region": "C.W. OF IND. STATES ",
+    "Population": 7961619,
+    "Area (sq. mi.)": 86600,
+    "Pop. Density (per sq. mi.)": "91,9",
+    "Coastline": {
+        "(coast area ratio)": "0,00"
+    },
+    "coordinates" : {
+        "latitude": 40.1431,
+        "longitude": 47.5769
+    },
+    "deltas" : {
+        "latitudeDelta": 7,
+        "longitudeDelta": 7
+    },
+    "Net migration": "-4,9",
+    "Infant mortality (per 1000 births)": "81,74",
+    "GDP ($ per capita)": 3400,
+    "Literacy (%)": "97,0",
+    "Phones (per 1000)": "137,1",
+    "Arable (%)": "19,63",
+    "Crops (%)": "2,71",
+    "Other (%)": "77,66",
+    "Climate": "1",
+    "Birthrate": "20,74",
+    "Deathrate": "9,75",
+    "Agriculture": "0,141",
+    "Industry": "0,457",
+    "Service": "0,402",
+    "visited": false,
+    "id": 1014,
+    "imageName": "az",
+    "destinations": [
+        {"name": "Icheri Seher",
+            "coordinates" : {
+                "latitude": 40.3663,
+                "longitude": 49.8350
+            },
+            "id": 2053,
+            "descriptions": "Wikipedia does not have an article on this location!!"
+        },
+        {"name": "Garasu Volcano",
+            "coordinates" : {
+                "latitude": 40.465397,
+                "longitude": 49.790852
+            },
+            "id": 2054,
+            "descriptions": "Azerbaijan has the most mud volcanoes of any country, spread broadly across the country"
+        },
+        {"name": "Gobustan",
+            "coordinates" : {
+                "latitude": 40.5326,
+                "longitude": 48.9274
+            },
+            "id": 2055,
+            "descriptions": "Wikipedia does not have an article on this location!!"
+        },
+        {"name": "Sheki City",
+            "coordinates" : {
+                "latitude": 41.1975,
+                "longitude": 47.1571
+            },
+            "id": 2056,
+            "descriptions": "Sheki City is a city in northwestern Azerbaijan, surrounded by the district of the same name. It is located on the southern part of the Greater Caucasus mountain range, 240 km (150 mi) from Baku"
+        }
+    ]
+}]
