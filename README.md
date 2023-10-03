@@ -1,9 +1,10 @@
 # standalone-app-CMSI2022: Cool Destinations
-This project was the 1st of 4 completed for the LMU CMSI2022: Mobile App Development Class in conjunction with **Bryan Ardon**, user: **bryanardon**.
+This project was the 1st of 4 completed for the LMU CMSI2022: Mobile App Development Class in Spring 2023.
 
-Our group was affectionately known as ***A Tuple of Bools***.
+It was completed in conjunction with **Bryan Ardon**, user: **bryanardon**. Our group was affectionately known as ***A Tuple of Bools***.
 
 The following is from the original project description:
+
 ## Overlook
 We built an app that allows users to track Cool Destinations where they would like to travel. We give the users a home screen that allows them to search for a country that starts with an A. Once the user selects a country, they are able to see the destinations this country offers and mark if they have visited this country before. We also have a profile where the user can edit their name and next travel date.
 
